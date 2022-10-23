@@ -1,0 +1,10 @@
+body {
+  background-color: #c7daed;
+}
+appBar {
+  color: #082340;
+}
+* {
+  /* font-family: 'Noto Sans JP' !important; */
+  font-family: "Heebo", sans-serif !important;
+}
